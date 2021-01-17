@@ -4,6 +4,7 @@
 
 #### Visualisation
 - Tables https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/
+- Create corporate colour palette https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2
 
 ## Python
 - Autocomplete for python https://www.kite.com/
