@@ -9,6 +9,9 @@
 #### Packages
 - Copy template files from a package to project https://usethis.r-lib.org/reference/use_template.html
 
+#### Learn R
+- Harkanwal https://github.com/harkanwals/an_approach_to_learning_R
+
 ## Python
 - Autocomplete for python https://www.kite.com/
 
