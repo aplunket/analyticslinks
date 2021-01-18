@@ -6,7 +6,7 @@
 - Tables https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/
 - Create corporate colour palette https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2
 
-### Packages
+#### Packages
 - Copy template files from a package to project https://usethis.r-lib.org/reference/use_template.html
 
 ## Python
