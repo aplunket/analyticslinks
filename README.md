@@ -24,6 +24,7 @@
 - Tips for Power BI (DiscoverEI) - www.discoverei.com/blog/top-5-power-bi-design-tips
 
 ## JavaScript 
+- idyll (scrolling visualisation) https://idyll-lang.org
 - Semiotic (Netflix) https://semiotic.nteract.io
 - Visx (AirBnB) https://airbnb.io/visx
 
