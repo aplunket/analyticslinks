@@ -24,7 +24,8 @@
 - Tips for Power BI (DiscoverEI) - www.discoverei.com/blog/top-5-power-bi-design-tips
 
 ## JavaScript 
-- Semiotic https://semiotic.nteract.io
+- Semiotic (Netflix) https://semiotic.nteract.io
+- Visx (AirBnB) https://airbnb.io/visx
 
 ## Other visualisation
 - Microsoft research no code needed https://charticulator.com/
