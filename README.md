@@ -24,14 +24,12 @@
 ## Power BI
 - SVG in Power BI (infographic images etc) http://hatfullofdata.blog/svg-in-power-bi-part-1/
 - Tips for Power BI (DiscoverEI) - www.discoverei.com/blog/top-5-power-bi-design-tips
+- Can be used for Power BI - Microsoft research no code needed https://charticulator.com/
 
 ## JavaScript 
 - idyll (scrolling visualisation) https://idyll-lang.org
 - Semiotic (Netflix) https://semiotic.nteract.io
 - Visx (AirBnB) https://airbnb.io/visx
-
-## Other visualisation
-- Microsoft research no code needed https://charticulator.com/
 
 # Machine Learning / Data Science
 
