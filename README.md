@@ -6,6 +6,8 @@
 - Tables https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/
 - Create corporate colour palette https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2
 - Paged Reports https://pagedreport.rfortherestofus.com/
+- Scrollytelling https://www.connorrothschild.com/post/automation-scrollytell/
+- Animated Visuals (ggautomate) https://www.connorrothschild.com/post/tidy-tuesday-powerlifting/
 
 #### Packages
 - Copy template files from a package to project https://usethis.r-lib.org/reference/use_template.html
