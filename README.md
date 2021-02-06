@@ -30,3 +30,9 @@
 
 ## Other visualisation
 - Microsoft research no code needed https://charticulator.com/
+
+# Machine Learning / Data Science
+
+## Learning 
+- https://github.com/therealsreehari/Learn-Datascience-For-Free
+
