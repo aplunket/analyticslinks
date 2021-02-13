@@ -45,6 +45,10 @@ Flourish https://flourish.studio/features/
 ## Auto ML
 - mljar https://github.com/mljar/mljar-supervised
 
+## Model Explanation
+- Lime https://github.com/marcotcr/lime
+- SHAP https://shap.readthedocs.io/en/latest/index.html
+
 ## Learning 
 - https://github.com/therealsreehari/Learn-Datascience-For-Free
 
