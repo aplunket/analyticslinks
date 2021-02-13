@@ -33,7 +33,7 @@
 - Visx (AirBnB) https://airbnb.io/visx
 
 ## Visualisation Tools
-Flourish https://flourish.studio/features/
+- Flourish https://flourish.studio/features/
 
 ## Visualisation Guidelines
 - Google https://material.io/design/communication/data-visualization.html#dashboards
