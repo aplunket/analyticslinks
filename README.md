@@ -34,6 +34,7 @@
 ## Visualisation Guidelines
 - Google https://material.io/design/communication/data-visualization.html#dashboards
 - FT https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf
+- London City Intelligence https://data.london.gov.uk/blog/city-intelligence-data-design-guidelines/
 
 # Machine Learning / Data Science
 
