@@ -33,6 +33,9 @@
 
 # Machine Learning / Data Science
 
+## Auto ML
+- mljar https://github.com/mljar/mljar-supervised
+
 ## Learning 
 - https://github.com/therealsreehari/Learn-Datascience-For-Free
 
