@@ -8,6 +8,7 @@
 - Paged Reports https://pagedreport.rfortherestofus.com/
 - Scrollytelling https://www.connorrothschild.com/post/automation-scrollytell/
 - Animated Visuals (ggautomate) https://www.connorrothschild.com/post/tidy-tuesday-powerlifting/
+- Adding design guidelines to ggplot https://github.com/Greater-London-Authority/gglaplot
 
 #### Packages
 - Copy template files from a package to project https://usethis.r-lib.org/reference/use_template.html
