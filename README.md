@@ -31,6 +31,7 @@
 - idyll (scrolling visualisation) https://idyll-lang.org
 - Semiotic (Netflix) https://semiotic.nteract.io
 - Visx (AirBnB) https://airbnb.io/visx
+- Reactvis (Uber Eats) https://github.com/uber/react-vis
 
 ## Visualisation Tools
 - Flourish https://flourish.studio/features/
