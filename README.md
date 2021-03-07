@@ -10,6 +10,11 @@
 - Animated Visuals (ggautomate) https://www.connorrothschild.com/post/tidy-tuesday-powerlifting/
 - Adding design guidelines to ggplot https://github.com/Greater-London-Authority/gglaplot
 
+#### Exploratory Data Analysis
+- summarytools https://github.com/dcomtois/summarytools
+- explore https://github.com/rolkra/explore
+- dataReporter https://github.com/ekstroem/dataReporter
+
 #### Packages
 - Copy template files from a package to project https://usethis.r-lib.org/reference/use_template.html
 
