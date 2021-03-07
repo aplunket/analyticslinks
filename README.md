@@ -18,6 +18,7 @@
 
 ## Python
 - Autocomplete for python https://www.kite.com/
+- SweetVis Exploratory Data Analysis https://github.com/fbdesignpro/sweetviz
 
 #### Visualisation
 - Altair https://altair-viz.github.io/
