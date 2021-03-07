@@ -33,6 +33,7 @@
 - Visx (AirBnB) https://airbnb.io/visx
 - Reactvis (Uber Eats) https://github.com/uber/react-vis
 - learn d3 https://wattenberger.com/blog/d3
+- ScrollyTeller https://github.com/ihmeuw/ScrollyTeller
 
 ## Visualisation Tools
 - Flourish https://flourish.studio/features/
