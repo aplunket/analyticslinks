@@ -52,6 +52,9 @@
 - London City Intelligence https://data.london.gov.uk/blog/city-intelligence-data-design-guidelines/
 - Examples in linked spreadsheet https://medium.com/nightingale/style-guidelines-92ebe166addc
 
+## Visualisation Blogs
+- DataSketch (Nadieh Bremer) https://www.datasketch.es/
+
 # Machine Learning / Data Science
 
 ## Auto ML
