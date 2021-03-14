@@ -54,6 +54,7 @@
 
 ## Visualisation Blogs
 - DataSketch (Nadieh Bremer) https://www.datasketch.es/
+- Engaging Data https://engaging-data.com/
 
 # Machine Learning / Data Science
 
