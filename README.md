@@ -44,8 +44,9 @@
 - learn d3 https://wattenberger.com/blog/d3
 - ScrollyTeller https://github.com/ihmeuw/ScrollyTeller
 
-## Visualisation Tools
+## Visualisation Tools / Data Platforms
 - Flourish https://flourish.studio/features/
+- Exploratory (base uses R) https://exploratory.io/
 
 ## Visualisation Guidelines
 - Google https://material.io/design/communication/data-visualization.html#dashboards
