@@ -23,6 +23,7 @@
 
 ## Python
 - Autocomplete for python https://www.kite.com/
+- Easy JSON reading https://github.com/jmespath/jmespath.py
 
 #### Exploratory Data Analysis
 - SweetVis https://github.com/fbdesignpro/sweetviz
