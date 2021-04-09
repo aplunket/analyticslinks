@@ -9,7 +9,6 @@
 - Scrollytelling https://www.connorrothschild.com/post/automation-scrollytell/
 - Animated Visuals (ggautomate) https://www.connorrothschild.com/post/tidy-tuesday-powerlifting/
 - Adding design guidelines to ggplot https://github.com/Greater-London-Authority/gglaplot
-- Create an API https://www.rplumber.io/
 
 #### Exploratory Data Analysis
 - summarytools https://github.com/dcomtois/summarytools
@@ -18,6 +17,10 @@
 
 #### Packages
 - Copy template files from a package to project https://usethis.r-lib.org/reference/use_template.html
+
+##### Other
+- Create an API https://www.rplumber.io/
+- Docker R Images https://hub.docker.com/u/rocker/#!
 
 #### Learn R
 - Harkanwal https://github.com/harkanwals/an_approach_to_learning_R
