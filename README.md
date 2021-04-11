@@ -23,6 +23,7 @@
 - Docker R Images https://hub.docker.com/u/rocker/#!
 
 #### Learn R
+- ggplot flipbook https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html
 - Harkanwal https://github.com/harkanwals/an_approach_to_learning_R
 
 ## Python
