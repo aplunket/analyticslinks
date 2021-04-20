@@ -50,6 +50,7 @@
 - learn d3 https://wattenberger.com/blog/d3
 - ScrollyTeller https://github.com/ihmeuw/ScrollyTeller
 - D3 react template https://github.com/adamjanes/create-d3-app/
+- Vite (replace for create react app) https://vitejs.dev/guide/
 
 ## Visualisation Tools / Data Platforms
 - Flourish https://flourish.studio/features/
