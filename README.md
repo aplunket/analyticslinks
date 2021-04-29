@@ -32,6 +32,7 @@
 
 #### Exploratory Data Analysis
 - SweetVis https://github.com/fbdesignpro/sweetviz
+- Lux https://lux-api.readthedocs.io/en/latest/index.html
 
 #### Visualisation
 - Altair https://altair-viz.github.io/
