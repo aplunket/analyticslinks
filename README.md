@@ -38,6 +38,9 @@
 - Altair https://altair-viz.github.io/
 - Streamlit dashboards https://streamlit.io/
 
+#### Learn Python 
+- Free books https://github.com/pamoroso/free-python-books
+
 ## Power BI
 - SVG in Power BI (infographic images etc) http://hatfullofdata.blog/svg-in-power-bi-part-1/
 - Tips for Power BI (DiscoverEI) - www.discoverei.com/blog/top-5-power-bi-design-tips
