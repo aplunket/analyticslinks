@@ -72,6 +72,9 @@
 
 # Machine Learning / Data Science
 
+## Time Series Forecasting
+- Orbit by Uber https://eng.uber.com/orbit/
+
 ## Auto ML
 - mljar https://github.com/mljar/mljar-supervised
 
