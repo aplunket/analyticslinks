@@ -74,6 +74,7 @@
 
 ## Time Series Forecasting
 - Orbit by Uber https://eng.uber.com/orbit/
+- Greykite by LinkedIn https://github.com/linkedin/greykite
 
 ## Auto ML
 - mljar https://github.com/mljar/mljar-supervised
