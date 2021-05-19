@@ -55,6 +55,7 @@
 - ScrollyTeller https://github.com/ihmeuw/ScrollyTeller
 - D3 react template https://github.com/adamjanes/create-d3-app/
 - Vite (replace for create react app) https://vitejs.dev/guide/
+- Nivo (react / D3) https://nivo.rocks/
 
 ## Visualisation Tools / Data Platforms
 - Flourish https://flourish.studio/features/
