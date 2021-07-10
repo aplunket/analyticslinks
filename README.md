@@ -38,6 +38,9 @@
 - Altair https://altair-viz.github.io/
 - Streamlit dashboards https://streamlit.io/
 
+####
+- Architecture Diagrams: https://diagrams.mingrammer.com/
+
 #### Learn Python 
 - Free books https://github.com/pamoroso/free-python-books
 
