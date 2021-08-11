@@ -27,7 +27,6 @@
 - Harkanwal https://github.com/harkanwals/an_approach_to_learning_R
 
 ## Python
-- Autocomplete for python https://www.kite.com/
 - Easy JSON reading https://github.com/jmespath/jmespath.py
 
 #### Exploratory Data Analysis
