@@ -70,6 +70,11 @@
 - London City Intelligence https://data.london.gov.uk/blog/city-intelligence-data-design-guidelines/
 - Examples in linked spreadsheet https://medium.com/nightingale/style-guidelines-92ebe166addc
 
+## Colour Palettes 
+
+- Check colour palette https://projects.susielu.com/viz-palette
+- Colour Blindness (diverging / sequential) https://gka.github.io/palettes
+
 ## Visualisation Blogs
 - DataSketch (Nadieh Bremer) https://www.datasketch.es/
 - Engaging Data https://engaging-data.com/
