@@ -58,7 +58,7 @@
 - D3 react template https://github.com/adamjanes/create-d3-app/
 - Vite (replace for create react app) https://vitejs.dev/guide/
 - Nivo (react / D3) https://nivo.rocks/
-- React Scrollrama https://github.com/jsonkao/react-scrollama
+- React Scrollama https://github.com/jsonkao/react-scrollama
 
 ## Visualisation Tools / Data Platforms
 - Flourish https://flourish.studio/features/
