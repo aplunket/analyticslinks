@@ -79,6 +79,11 @@
 - DataSketch (Nadieh Bremer) https://www.datasketch.es/
 - Engaging Data https://engaging-data.com/
 
+# Data Engineering
+
+## Learning
+- Data Engineering learning https://awesomedataengineering.com/
+
 # Machine Learning / Data Science
 
 ## Time Series Forecasting
