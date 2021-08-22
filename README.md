@@ -90,6 +90,7 @@
 - Orbit by Uber https://eng.uber.com/orbit/
 - Greykite by LinkedIn https://github.com/linkedin/greykite
 - Sktime https://www.sktime.org/en/latest/
+- Darts https://github.com/unit8co/darts
 
 ## Auto ML
 - mljar https://github.com/mljar/mljar-supervised
