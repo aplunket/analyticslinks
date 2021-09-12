@@ -79,6 +79,9 @@
 - DataSketch (Nadieh Bremer) https://www.datasketch.es/
 - Engaging Data https://engaging-data.com/
 
+## Data
+- Public APIs https://github.com/public-apis/public-apis
+
 # Data Engineering
 
 ## Learning
