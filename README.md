@@ -38,6 +38,7 @@
 - Streamlit dashboards https://streamlit.io/
 
 #### Other
+- Poetry (dependency management) https://python-poetry.org/
 - Architecture Diagrams: https://diagrams.mingrammer.com/
 
 #### Learn Python 
