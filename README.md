@@ -40,6 +40,7 @@
 #### Other
 - Poetry (dependency management) https://python-poetry.org/
 - Architecture Diagrams: https://diagrams.mingrammer.com/
+- Code snippets: https://github.com/30-seconds/30-seconds-of-code
 
 #### Learn Python 
 - Free books https://github.com/pamoroso/free-python-books
@@ -60,6 +61,7 @@
 - Vite (replace for create react app) https://vitejs.dev/guide/
 - Nivo (react / D3) https://nivo.rocks/
 - React Scrollama https://github.com/jsonkao/react-scrollama
+- Code snippets: https://github.com/30-seconds/30-seconds-of-code
 
 ## Visualisation Tools / Data Platforms
 - Flourish https://flourish.studio/features/
