@@ -38,6 +38,7 @@
 - Streamlit dashboards https://streamlit.io/
 
 #### Other
+- Tidypolars (tidyverse syntax in python + faster than pandas): https://github.com/markfairbanks/tidypolars
 - Poetry (dependency management) https://python-poetry.org/
 - Architecture Diagrams: https://diagrams.mingrammer.com/
 - Code snippets: https://github.com/30-seconds/30-seconds-of-code
