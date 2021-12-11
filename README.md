@@ -46,6 +46,9 @@
 #### Learn Python 
 - Free books https://github.com/pamoroso/free-python-books
 
+## SQL 
+- Learn Postgres https://bigmachine.io/products/a-curious-moon/
+
 ## Power BI
 - SVG in Power BI (infographic images etc) http://hatfullofdata.blog/svg-in-power-bi-part-1/
 - Tips for Power BI (DiscoverEI) - www.discoverei.com/blog/top-5-power-bi-design-tips
