@@ -36,6 +36,7 @@
 #### Visualisation
 - Altair https://altair-viz.github.io/
 - Streamlit dashboards https://streamlit.io/
+- Authenticated full stack streamlit https://github.com/sapped/Authenticated-Full-Stack-Streamlit
 
 #### Other
 - Tidypolars (tidyverse syntax in python + faster than pandas): https://github.com/markfairbanks/tidypolars
