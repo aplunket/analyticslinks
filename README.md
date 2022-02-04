@@ -44,6 +44,7 @@
 - Poetry (dependency management) https://python-poetry.org/
 - Architecture Diagrams: https://diagrams.mingrammer.com/
 - Code snippets: https://github.com/30-seconds/30-seconds-of-code
+- Python / Jupyter pipelines https://github.com/ploomber/ploomber
 
 #### Learn Python 
 - Free books https://github.com/pamoroso/free-python-books
