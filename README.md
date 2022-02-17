@@ -21,6 +21,7 @@
 ##### Other
 - Create an API https://www.rplumber.io/
 - Docker R Images https://hub.docker.com/u/rocker/#!
+- Polished (auth layer for outputs) https://github.com/Tychobra/polished
 
 #### Learn R
 - ggplot flipbook https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html
