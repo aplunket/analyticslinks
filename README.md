@@ -71,6 +71,7 @@
 - Nivo (react / D3) https://nivo.rocks/
 - React Scrollama https://github.com/jsonkao/react-scrollama
 - Code snippets: https://github.com/30-seconds/30-seconds-of-code
+- Observable Plots: https://github.com/observablehq/plot
 
 ## Visualisation Tools / Data Platforms
 - Flourish https://flourish.studio/features/
