@@ -47,6 +47,7 @@
 - Architecture Diagrams: https://diagrams.mingrammer.com/
 - Code snippets: https://github.com/30-seconds/30-seconds-of-code
 - Python / Jupyter pipelines https://github.com/ploomber/ploomber
+- Vaex (Out of Memory dataframes): https://github.com/vaexio/vaex
 
 #### Learn Python 
 - Free books https://github.com/pamoroso/free-python-books
