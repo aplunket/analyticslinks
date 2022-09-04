@@ -22,6 +22,7 @@
 - Create an API https://www.rplumber.io/
 - Docker R Images https://hub.docker.com/u/rocker/#!
 - Polished (auth layer for outputs) https://github.com/Tychobra/polished
+- Diskframe (on disk dataframes): https://diskframe.com/
 
 #### Learn R
 - ggplot flipbook https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html
@@ -47,7 +48,7 @@
 - Architecture Diagrams: https://diagrams.mingrammer.com/
 - Code snippets: https://github.com/30-seconds/30-seconds-of-code
 - Python / Jupyter pipelines https://github.com/ploomber/ploomber
-- Vaex (Out of Memory dataframes): https://github.com/vaexio/vaex
+- Vaex (on disk dataframes): https://github.com/vaexio/vaex
 
 #### Learn Python 
 - Free books https://github.com/pamoroso/free-python-books
