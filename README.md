@@ -49,6 +49,7 @@
 - Code snippets: https://github.com/30-seconds/30-seconds-of-code
 - Python / Jupyter pipelines https://github.com/ploomber/ploomber
 - Vaex (on disk dataframes): https://github.com/vaexio/vaex
+- Pynomaly: https://github.com/vc1492a/PyNomaly
 
 #### Learn Python 
 - Free books https://github.com/pamoroso/free-python-books
