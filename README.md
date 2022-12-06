@@ -9,6 +9,7 @@
 - Scrollytelling https://www.connorrothschild.com/post/automation-scrollytell/
 - Animated Visuals (ggautomate) https://www.connorrothschild.com/post/tidy-tuesday-powerlifting/
 - Adding design guidelines to ggplot https://github.com/Greater-London-Authority/gglaplot
+- GPT chatbot to create ggplot code https://github.com/isinaltinkaya/gptchatteR
 
 #### Exploratory Data Analysis
 - summarytools https://github.com/dcomtois/summarytools
