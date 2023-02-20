@@ -115,6 +115,7 @@
 
 ## Auto ML
 - mljar https://github.com/mljar/mljar-supervised
+- lazypredict https://github.com/shankarpandala/lazypredict
 
 ## Model Explanation
 - Lime https://github.com/marcotcr/lime
