@@ -15,6 +15,7 @@
 - summarytools https://github.com/dcomtois/summarytools
 - explore https://github.com/rolkra/explore
 - dataReporter https://github.com/ekstroem/dataReporter
+- RWA https://github.com/martinctc/rwa
 
 #### Packages
 - Copy template files from a package to project https://usethis.r-lib.org/reference/use_template.html
