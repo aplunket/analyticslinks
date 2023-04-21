@@ -11,6 +11,10 @@
 - Adding design guidelines to ggplot https://github.com/Greater-London-Authority/gglaplot
 - GPT chatbot to create ggplot code https://github.com/isinaltinkaya/gptchatteR
 
+### RMarkdown Outputs
+- Xaringan https://github.com/yihui/xaringan
+- Renderthis https://github.com/jhelvy/renderthis
+
 #### Exploratory Data Analysis
 - summarytools https://github.com/dcomtois/summarytools
 - explore https://github.com/rolkra/explore
