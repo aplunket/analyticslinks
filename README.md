@@ -33,6 +33,7 @@
 #### Learn R
 - ggplot flipbook https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html
 - R Without Stats https://book.rwithoutstatistics.com/introduction.html
+- https://clauswilke.com/dataviz
 
 ## Python
 - Easy JSON reading https://github.com/jmespath/jmespath.py
