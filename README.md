@@ -69,6 +69,9 @@
 - Tips for Power BI (DiscoverEI) - www.discoverei.com/blog/top-5-power-bi-design-tips
 - Can be used for Power BI - Microsoft research no code needed https://charticulator.com/
 
+## Other
+- Rollstack (Slides from BI tool) https://www.rollstack.io/
+
 ## JavaScript 
 - idyll (scrolling visualisation) https://idyll-lang.org
 - Semiotic (Netflix) https://semiotic.nteract.io
