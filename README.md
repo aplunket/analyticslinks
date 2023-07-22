@@ -48,6 +48,7 @@
 - Authenticated full stack streamlit https://github.com/sapped/Authenticated-Full-Stack-Streamlit
 - Mercury (Share jupyter notebooks as web app) https://github.com/mljar/mercury
 - Datapane https://datapane.com/
+- StreamSync https://github.com/streamsync-cloud/streamsync
 
 #### Other
 - Tidypolars (tidyverse syntax in python + faster than pandas): https://github.com/markfairbanks/tidypolars
